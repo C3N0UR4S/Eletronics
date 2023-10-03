@@ -41,4 +41,8 @@ plt.grid(True)
 #plt.savefig('HP_gain.pdf')
 plt.show()
 
+print('K: ', K )
+print('Q: ', Q )
+print('w0: ', w0 )
+
 
